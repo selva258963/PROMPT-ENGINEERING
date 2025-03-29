@@ -7,7 +7,7 @@ Develop a comprehensive report for the following exercises:
 4.	Generative AI impact of scaling in LLMs.
 
 # Output
-## 1.Explain the foundational concepts of Generative AI. in short and crisp 
+## 1.Explain the foundational concepts of Generative AI.
 
 Generative AI refers to AI models that can create new content, such as text, images, music, and videos, based on learned patterns from training data.
 
